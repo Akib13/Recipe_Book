@@ -11,3 +11,6 @@ To run:
 2. run '(sudo) npm install --force'. (Here, sudo is not always mandatory)
 3. run 'ng serve'
 4. Now the terminal will show a link like 'http://localhost:4200/'. Go to the link and if you are lucky it may run without any error.
+
+
+Also, the 2 zip files are uploaded if any error occured during clone.
